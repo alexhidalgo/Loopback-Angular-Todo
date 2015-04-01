@@ -15,10 +15,8 @@
     "loopback-datasource-juggler": "^2.19.0",
     "serve-favicon": "^2.0.1"
   },
-  {
-    "engines": {
-      "node": "0.10.X"
-    }
+  "engines": {
+   "node": "0.10.X"  
   },
   "optionalDependencies": {
     "loopback-explorer": "^1.1.0"
